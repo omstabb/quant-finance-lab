@@ -1,2 +1,2 @@
 # quant-finance-lab
-Financial engineering models in Python - Monte Carlo simulation, stochastic processes, and options pricing.
+A growing collection of quantitative finance implementations built from first principles as part of my financial engineering studies. Current and planned topics include Monte Carlo simulation, geometric Brownian motion and other stochastic processes, Black-Scholes and Greeks, and numerical methods for derivatives pricing. Each module is self-contained with the underlying math documented alongside the code.
